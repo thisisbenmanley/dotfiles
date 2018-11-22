@@ -1,0 +1,10 @@
+# UMich CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User bdmanley
+	Compression yes
+
+# BeagleBone Black Dev
+Host bbb
+	Hostname 192.168.7.2
+	User debian
